@@ -3,6 +3,7 @@
      display it as such, e.g. website) -->
 
 # Design patterns implemented in Java
+# Forked to reference when reading "Design Patterns: Elements of Reusable Object-Oreinted Software by Erich Gamma, et al"
 
 ![Java CI](https://github.com/iluwatar/java-design-patterns/workflows/Java%20CI/badge.svg)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/iluwatar/java-design-patterns/master/LICENSE.md)
